@@ -15,4 +15,9 @@ JSON is different from Javascript is a data interchange format that use to store
 Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.The involves restructuring existing code to improve its readability, maintainability, or efficiency without changing its external behavior. The benefical to promote code reusability and reducing code duplication and ensuring consisyency in appearance and behavior.
 
 Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
-The API testing of endpoints  URLs (Uniform Resource Locators) that define the locations where API requests can be made.
+
+The API testing of endpoints  URLs (Uniform Resource Locators) that define the locations where API requests can be made. There are users post and logins the security in a full stack application is making sure only authorezied users have access. 
+
+How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
+This course has help me by bettering understandinfg css and figuring out the needs of the code the website getting developme in HTNL on how it use to format haave better prepared me for the work force. 
